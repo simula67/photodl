@@ -1,0 +1,36 @@
+You need to register your app at developer.facebook.com/apps.
+Set a canvas URL (which is the url where your app is hosted) [Usually the URL of your php script]
+I decided to host on localhost.
+The namespace becomes the URL at which your app is accessed
+(
+My namespace was sim_photodown and my app is accessed at : 
+https://apps.facebook.com/sim_photodown/
+)
+
+Settings for the app
+
+App ID/API Key
+140450869386382
+
+App Secret
+APP_SECRET
+[ This is not a secret if I disclose it :) ]
+
+
+Canvas Page
+https://apps.facebook.com/sim_photodown/
+
+Canvas URL
+http://localhost/photodl/
+
+Secure Canvas URL
+https://localhost/photodl/
+
+Canvas FBML/iframe
+iframe
+
+Contact Email
+simula67@gmail.com
+
+Support Email
+jogy_antony@yahoo.co.uk
